@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/In-Card-Filter/static/css/main.e7b1a8a8.css",
+    "main.js": "/In-Card-Filter/static/js/main.c532e545.js",
+    "index.html": "/In-Card-Filter/index.html",
+    "main.e7b1a8a8.css.map": "/In-Card-Filter/static/css/main.e7b1a8a8.css.map",
+    "main.c532e545.js.map": "/In-Card-Filter/static/js/main.c532e545.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7b1a8a8.css",
+    "static/js/main.c532e545.js"
+  ]
+}
